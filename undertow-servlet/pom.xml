@@ -60,7 +60,7 @@
     </dependencies>
 
     <profiles>
-        <profile>
+        <!--<profile>
             <id>fat-jar</id>
             <activation>
                 <activeByDefault>true</activeByDefault>
@@ -127,7 +127,7 @@
                     </plugin>
                 </plugins>
             </build>
-        </profile>
+        </profile>-->
 	    <profile>
 	        <id>openshift</id>
 	        <build>
