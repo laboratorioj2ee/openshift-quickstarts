@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ 
+<web-app version="3.0" xmlns="http://java.sun.com/xml/ns/javaee"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    metadata-complete="false">
+ 	
+ 	<display-name>Browser</display-name>
+    <description>File Browsing Application for the Document Share</description>
+    
+    <welcome-file-list>  
+   		<welcome-file>index.html</welcome-file>  
+  	</welcome-file-list> 
+ 	
+</web-app>
